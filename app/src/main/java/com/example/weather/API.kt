@@ -9,7 +9,6 @@ import com.android.volley.toolbox.Volley
 import com.example.weather.data.WeatherModel
 
 const val API_KEY = "88e829fb3fba4d3faf5124809242911"
-
 class API {
     val daysWeather = DaysWeather()
 
